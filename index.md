@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/images/Techvedaimage.png" alt="Let's Detangle the Tech" style="max-width: 100%; border-radius: 12px;" />
+</p>
+
+---
+
 # 👋 Welcome to **TechVeda101**
 
 > Learn Tech the simplest way — Flashcards, Cheat Sheets, and Visual Guides for AWS, DevOps & Observability!
