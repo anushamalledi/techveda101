@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/Techvedaimage.png" alt="Let's Detangle the Tech" style="max-width: 100%; border-radius: 12px;" />
+  <img src="site/assets/images/Techvedaimage.png" alt="Let's Detangle the Tech" style="max-width: 100%; border-radius: 12px;" />
 </p>
 
 ---
