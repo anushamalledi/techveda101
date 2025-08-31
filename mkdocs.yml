@@ -1,0 +1,32 @@
+site_name: TechVeda101
+site_description: Let’s Detangle the Tech
+site_url: https://techveda101.com
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.tooltips
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: purple
+      accent: indigo
+nav:
+  - Home: index.md
+  - AWS:
+      - S3 Basics: aws/s3-basics.md
+  - DevOps:
+      - Docker Lifecycle: devops/docker-lifecycle.md
+  - Observability:
+      - Intro: observability/intro.md
