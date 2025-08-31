@@ -25,8 +25,8 @@ theme:
 nav:
   - Home: index.md
   - AWS:
-      - S3 Basics: aws/s3-basics.md
+      - S3 Basics: docs/aws/s3-basics.md
   - DevOps:
-      - Docker Lifecycle: devops/docker-lifecycle.md
+      - Docker Lifecycle: docs/devops/docker-lifecycle.md
   - Observability:
-      - Intro: observability/intro.md
+      - Intro: docs/observability/intro.md
